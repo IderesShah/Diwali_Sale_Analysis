@@ -63,8 +63,10 @@ The dataset contains sales data for various product categories, customer demogra
 ## Conclusion
 This analysis provides valuable insights into sales patterns and customer behavior, helping businesses make data-driven decisions for marketing and inventory planning. Future work could involve integrating machine learning models to predict sales trends more accurately.
 
-## Author
-*Ideres Ayub Shah*
+## 💡 Author
+*Ideres Ayub Shah*  
+Data Analyst | Data Enthusiast  
+www.linkedin.com/in/ideres-ayub-shah-b715a2344 
 
 ---
 Feel free to contribute or reach out with any suggestions!
