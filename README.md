@@ -1,4 +1,4 @@
-# Diwali Sales Analysis
+# Festival Trend Analysis
 
 ## Project Overview
 This project analyzes Diwali sales data to extract key insights about customer behavior, product performance, and regional sales distribution. The analysis helps businesses optimize marketing strategies, inventory management, and sales forecasting.
